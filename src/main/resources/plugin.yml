@@ -1,0 +1,4 @@
+name: HungerGamesAPI
+main: com.github.skipperguy12.HungerGamesAPI.core.HungerGamesAPI
+version: 0.1
+commands:
